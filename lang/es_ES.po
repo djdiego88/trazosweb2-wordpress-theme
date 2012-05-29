@@ -1,0 +1,830 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Trazos Web 2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-21 18:35-0500\n"
+"PO-Revision-Date: 2012-05-21 18:36-0500\n"
+"Last-Translator: Diego Castillo <djdiego88@trazos-web.com>\n"
+"Language-Team: Trazos Web 2 <djdiego88@trazos-web.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:9
+#, php-format
+msgid "Parece que has tomado un camino equivocado. Prueba buscando otro término en el formulario de búsqueda o  puedes ir a la <a href=\"%s\">página de Inicio</a>, puedes elegir lo que desees en la barra lateral o puedes ir a alguna de las secciones que te muestro a continuación."
+msgstr ""
+
+#: 404.php:10
+msgid "Búsqueda por páginas"
+msgstr ""
+
+#: 404.php:14
+msgid "Búsqueda por Categorías"
+msgstr ""
+
+#: archive.php:6
+#, php-format
+msgid "Archivos de la Categoría: %s"
+msgstr ""
+
+#: archive.php:8
+#, php-format
+msgid "Archivos de la Etiqueta: %s"
+msgstr ""
+
+#: archive.php:10
+#, php-format
+msgid "Archivos del Día: %s"
+msgstr ""
+
+#: archive.php:12
+#, php-format
+msgid "Archivos del Mes: %s"
+msgstr ""
+
+#: archive.php:14
+#, php-format
+msgid "Archivos del Año: %s"
+msgstr ""
+
+#: archive.php:21
+#: author.php:25
+#: index.php:8
+#: search.php:11
+#: single.php:12
+msgid "0 Comentarios"
+msgstr ""
+
+#: archive.php:21
+#: author.php:25
+#: index.php:8
+#: search.php:11
+#: single.php:12
+msgid "1 Comentario"
+msgstr ""
+
+#: archive.php:24
+#: author.php:28
+#: index.php:11
+#: page.php:11
+#: search.php:14
+msgid "Continúa leyendo"
+msgstr ""
+
+#: archive.php:35
+#: author.php:39
+#: index.php:22
+#: search.php:25
+msgid "No se ha encontrado"
+msgstr ""
+
+#: archive.php:36
+#: author.php:40
+#: index.php:23
+#: search.php:26
+msgid "Disculpa, pero estás buscando algo que no se encuentra aquí."
+msgstr ""
+
+#: author.php:12
+#, php-format
+msgid "Artículos del Autor: <em>%s</em>"
+msgstr ""
+
+#: author.php:14
+msgid "Website"
+msgstr ""
+
+#: author.php:16
+msgid "Perfil"
+msgstr ""
+
+#: comments.php:4
+msgid "Por favor no cargues esta página directamente. Gracias!"
+msgstr ""
+
+#: comments.php:6
+msgid "Este artículo está protegido con contraseña. Ingresa la contrase&ña para ver los comentarios."
+msgstr ""
+
+#: comments.php:19
+msgid "&larr; Comentarios Antiguos"
+msgstr ""
+
+#: comments.php:20
+msgid "Nuevos Comentarios &rarr;"
+msgstr ""
+
+#: comments.php:25
+msgid "Trackbacks/Pingbacks"
+msgstr ""
+
+#: comments.php:35
+msgid "Los comentarios están cerrados."
+msgstr ""
+
+#: comments.php:41
+msgid "Deja un Comentario"
+msgstr ""
+
+#: comments.php:41
+#, php-format
+msgid "Déjale un Comentario a %s"
+msgstr ""
+
+#: comments.php:46
+#, php-format
+msgid "Debes <a href=\"%s\">ingresar</a> para publicar un comentario."
+msgstr ""
+
+#: comments.php:50
+#, php-format
+msgid "Has ingresado como <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Salir de esta cuenta\">Salir &raquo;</a>"
+msgstr ""
+
+#: comments.php:52
+msgid "Nombre"
+msgstr ""
+
+#: comments.php:52
+#: comments.php:53
+msgid "(requerido)"
+msgstr ""
+
+#: comments.php:53
+msgid "<strong>Mail</strong> (no será publicado)"
+msgstr ""
+
+#: comments.php:54
+msgid "Sitio Web"
+msgstr ""
+
+#: comments.php:56
+#, php-format
+msgid "Puedes usar las siguientes etiquetas y atributos de <abbr title=\"HyperText Markup Language\">HTML</abbr>: %s"
+msgstr ""
+
+#: comments.php:58
+msgid "Envía tu Comentario"
+msgstr ""
+
+#: footer.php:5
+msgid "Blogroll"
+msgstr ""
+
+#: footer.php:13
+msgid "Categorías"
+msgstr ""
+
+#: footer.php:53
+#, php-format
+msgid "Creado con %s"
+msgstr ""
+
+#: footer.php:53
+msgid "Diseñado por"
+msgstr ""
+
+#: footer.php:53
+#, php-format
+msgid "%s - Blogging, Desarrollo y Diseño Web"
+msgstr ""
+
+#: functions.php:42
+msgid "Responder"
+msgstr ""
+
+#: functions.php:46
+#, php-format
+msgid "<cite>%s</cite> Dice:"
+msgstr ""
+
+#: functions.php:49
+msgid "Tu comentario esta esperando moderación."
+msgstr ""
+
+#: functions.php:57
+#, php-format
+msgid "%1$s a las %2$s"
+msgstr ""
+
+#: functions.php:57
+msgid "F j, Y"
+msgstr ""
+
+#: functions.php:57
+msgid "h:i A"
+msgstr ""
+
+#: functions.php:60
+msgid "Editar"
+msgstr ""
+
+#: functions.php:161
+msgid "Continúa Leyendo"
+msgstr ""
+
+#: functions.php:185
+msgid "Sidebar Arriba"
+msgstr ""
+
+#: functions.php:194
+msgid "Sidebar  al Fondo"
+msgstr ""
+
+#: functions.php:203
+msgid "Footer a la Izquierda"
+msgstr ""
+
+#: functions.php:205
+msgid "Espacio para mostrar el blogroll. Máximo 10 enlaces por columna."
+msgstr ""
+
+#: functions.php:213
+msgid "Footer en medio"
+msgstr ""
+
+#: functions.php:215
+msgid "Espacio para mostrar el listado de categorías. Máximo 10 enlaces por columna."
+msgstr ""
+
+#: functions.php:223
+msgid "Footer a la Derecha"
+msgstr ""
+
+#: functions.php:242
+#: inc/theme-options.php:111
+msgid "Y"
+msgstr ""
+
+#: functions.php:294
+msgid "&raquo;"
+msgstr ""
+
+#: functions.php:295
+#: header.php:98
+msgid "Inicio"
+msgstr ""
+
+#: functions.php:314
+#, php-format
+msgid "Archivo por categoría \"%s\""
+msgstr ""
+
+#: functions.php:382
+#, php-format
+msgid "Resultados de la búsqueda para \"%s\""
+msgstr ""
+
+#: functions.php:388
+#, php-format
+msgid "Artículos etiquetados en \"%s\""
+msgstr ""
+
+#: functions.php:396
+#, php-format
+msgid "Artículos publicados por %s"
+msgstr ""
+
+#: functions.php:401
+msgid "Error 404"
+msgstr ""
+
+#: functions.php:408
+msgid "Página"
+msgstr ""
+
+#: functions.php:482
+#, php-format
+msgid "<li>Publicado por: <strong><a href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a></strong> el </li><li> <time class=\"entry-date\" datetime=\"%4$s\" pubdate>%5$s</time> </li><li> en %6$s </li>"
+msgstr ""
+
+#: functions.php:487
+msgid "j \\d\\e F \\d\\e Y"
+msgstr ""
+
+#: header.php:17
+#, php-format
+msgid "Página %s"
+msgstr ""
+
+#: header.php:79
+#, php-format
+msgid "Házte fan de %1$s en Facebook: %2$d Fans"
+msgstr ""
+
+#: header.php:82
+#, php-format
+msgid "Sigue a %1$s en Twitter: %2$d Seguidores"
+msgstr ""
+
+#: header.php:86
+#, php-format
+msgid "Recibe los últimos artículos de %s en tu E-mail"
+msgstr ""
+
+#: header.php:89
+#, php-format
+msgid "Súscríbete a la página de %s en Google Plus"
+msgstr ""
+
+#: page.php:12
+#: single.php:16
+msgid "Páginas:"
+msgstr ""
+
+#: search.php:5
+#, php-format
+msgid "<em>Resultados de la Búsqueda</em> | \"%s\""
+msgstr ""
+
+#: sidebar.php:16
+msgid "Patrocinadores"
+msgstr ""
+
+#: sidebar.php:39
+#: sidebar.php:49
+msgid "Artículos Populares"
+msgstr ""
+
+#: sidebar.php:40
+#: sidebar.php:68
+msgid "Últimos Comentarios"
+msgstr ""
+
+#: sidebar.php:41
+#: sidebar.php:98
+msgid "Etiquetas"
+msgstr ""
+
+#: sidebar.php:42
+#: sidebar.php:102
+msgid "Artículos Aleatorios"
+msgstr ""
+
+#: sidebar.php:43
+#: sidebar.php:115
+msgid "Artículos Recientes"
+msgstr ""
+
+#: single.php:21
+msgid "Tags"
+msgstr ""
+
+#: single.php:24
+#, php-format
+msgid "Suscríbete al Feed RSS de %s"
+msgstr ""
+
+#: single.php:27
+msgid "Comparte este artículo en Facebook"
+msgstr ""
+
+#: single.php:28
+msgid "Marca este artículo en Delicious"
+msgstr ""
+
+#: single.php:29
+msgid "Comparte este artículo en StumbleUpon"
+msgstr ""
+
+#: single.php:30
+msgid "Comparte este artículo en Technorati"
+msgstr ""
+
+#: single.php:31
+msgid "Comparte este artículo en Google Bookmark"
+msgstr ""
+
+#: single.php:32
+msgid "Envíale este artículo a un amigo"
+msgstr ""
+
+#: single.php:37
+#: single.php:39
+msgid "Twittear"
+msgstr ""
+
+#: single.php:44
+msgid "Artículos Relacionados"
+msgstr ""
+
+#: single.php:65
+msgid "No hay artículos relacionados"
+msgstr ""
+
+#: inc/meta_seo.php:8
+msgid "Meta Description"
+msgstr ""
+
+#: inc/meta_seo.php:9
+msgid "La Meta Description es un pequeño párrafo que describe de que trata una página o artículo en particular. Google y otros buscadores mostrarán esta descripción en los resultados de la búsqueda. Sin este texto, generalmente, los buscadores simplemente mostrarán pedazos relevantes de texto de tu sitio."
+msgstr ""
+
+#: inc/meta_seo.php:10
+msgid "Ingresa una pequeña descripción para los buscadores."
+msgstr ""
+
+#: inc/meta_seo.php:16
+msgid "Meta Keywords"
+msgstr ""
+
+#: inc/meta_seo.php:17
+msgid "Las Meta keywords son palabras o frases que puedes usar para describir tu artículo o página. Definitivamente ahora no tienen el mismo impacto en el SEO como en el pasado, sin embargo estas todavía pueden ser útiles. De acuerdo a <a href=\\\"http://www.mattcutts.com/blog/\\\" target=\\\"_blank\\\">Matt Cutts</a>, responsable del buscador de Google, Google no utiliza las meta keywords para determinar las posiciones en sus resultados de búsqueda. Sin embargo, muchos otros buscadores si lo hacen. Así que, nunca es mala idea incluirlas."
+msgstr ""
+
+#: inc/meta_seo.php:18
+msgid "Ingresa algunas palabras clave importantes. Separa estas palabras con comas.<br>Ej: palabra clave 1, palabra clave 2, palabra clave 3"
+msgstr ""
+
+#: inc/meta_seo.php:40
+msgid "¿Qué es esto?"
+msgstr ""
+
+#: inc/meta_seo.php:45
+msgid "Cerrar"
+msgstr ""
+
+#: inc/meta_seo.php:59
+#: inc/meta_seo.php:63
+msgid "Optimización para Motores de Búsqueda (SEO)"
+msgstr ""
+
+#: inc/pagenavi.php:23
+msgid "Página %CURRENT_PAGE% de %TOTAL_PAGES%:"
+msgstr ""
+
+#: inc/pagenavi.php:24
+#: inc/pagenavi.php:25
+msgid "%PAGE_NUMBER%"
+msgstr ""
+
+#: inc/pagenavi.php:26
+msgid "Primera"
+msgstr ""
+
+#: inc/pagenavi.php:27
+msgid "Última"
+msgstr ""
+
+#: inc/pagenavi.php:28
+msgid "Siguiente &raquo;"
+msgstr ""
+
+#: inc/pagenavi.php:29
+msgid "&laquo; Anterior"
+msgstr ""
+
+#: inc/theme-options.php:51
+#: inc/theme-options.php:52
+#: inc/theme-options.php:198
+#, php-format
+msgid "Opciones de %s"
+msgstr ""
+
+#: inc/theme-options.php:74
+msgid "Algunos temas dan opciones de personalización que son agrupadas en una sección de Opciones de Configuración del tema. Si cambias de tema, las opciones pueden desaparecer, si son especificas de ese tema. Tu actual tema, Trazos Web 2, te da las siguientes opciones:"
+msgstr ""
+
+#: inc/theme-options.php:76
+msgid "<strong>Generales</strong>: Aquí puedes seleccionar el estilo del tema, personalizar el logo del tema, así como el favicon, puedes activar los breadcrumbs \"Migas de Pan\", configurar los artículos relacionados, añadir tu cuenta de google analytics o usar otro servicio de estadísticas y modificar el texto \"Copyright\" del pie de página."
+msgstr ""
+
+#: inc/theme-options.php:77
+msgid "<strong>Redes Sociales</strong>: Aquí puedes escoger que servicio de RSS utilizar, que mensaje mostrar al final de los artículos en el RSS, ingresar tu dirección de suscripción por email, ingresar los datos de tu página en facebook, ingresar una imagen por defecrto para Open Graph de Facebook e ingresar tus datos de tu perfil en Twitter."
+msgstr ""
+
+#: inc/theme-options.php:78
+msgid "<strong>SEO (Posicionamiento Web)</strong>: Aquí puedes configurar los datos de las etiquetas \"description\" y \"keywords\" de la página principal y decidir si quieres mostrar las opciones de SEO para poder configurar en cada uno de tus artículos."
+msgstr ""
+
+#: inc/theme-options.php:79
+msgid "<strong>Anuncios</strong>: Aquí decides si quieres mostrar los anuncios, que cantidad de anuncios deseas, si quieres que los anuncios roten o se mantengan fijos y puedes añadir todos los datos (URL, Imagen, Etiqueta ALT) de cada anuncio."
+msgstr ""
+
+#: inc/theme-options.php:81
+msgid "Recuerda hacer clic en \"Guardar Opciones\" para guardar cualquier cambio que hayas hecho en las opciones del theme."
+msgstr ""
+
+#: inc/theme-options.php:82
+msgid "Para más información:"
+msgstr ""
+
+#: inc/theme-options.php:83
+msgid "<a href=\"http://wordpress.org/support/\" target=\"_blank\">Foros de Ayuda</a>"
+msgstr ""
+
+#: inc/theme-options.php:91
+msgid "Ayuda del Tema"
+msgstr ""
+
+#: inc/theme-options.php:214
+#, php-format
+msgid "%1$s diseñado por %2$s"
+msgstr ""
+
+#: inc/theme-options.php:214
+msgid "Sígueme en Twitter!."
+msgstr ""
+
+#: inc/theme-options.php:214
+#, php-format
+msgid "Únete a %s en Facebook!"
+msgstr ""
+
+#: inc/theme-options.php:214
+#, php-format
+msgid "Únete a %s en Google Plus!,"
+msgstr ""
+
+#: inc/theme-options.php:225
+msgid "Azul"
+msgstr ""
+
+#: inc/theme-options.php:230
+msgid "Rojo"
+msgstr ""
+
+#: inc/theme-options.php:235
+msgid "Verde"
+msgstr ""
+
+#: inc/theme-options.php:240
+msgid "Negro"
+msgstr ""
+
+#: inc/theme-options.php:245
+msgid "Morado"
+msgstr ""
+
+#: inc/theme-options.php:255
+msgid "Generales"
+msgstr ""
+
+#: inc/theme-options.php:255
+msgid "Redes Sociales"
+msgstr ""
+
+#: inc/theme-options.php:255
+msgid "SEO"
+msgstr ""
+
+#: inc/theme-options.php:255
+msgid "Anuncios"
+msgstr ""
+
+#: inc/theme-options.php:279
+#: inc/theme-options.php:384
+#: inc/theme-options.php:478
+#: inc/theme-options.php:527
+msgid "Opciones correctamente guardadas"
+msgstr ""
+
+#: inc/theme-options.php:288
+#: inc/theme-options.php:290
+msgid "Estilos de color"
+msgstr ""
+
+#: inc/theme-options.php:307
+#: inc/theme-options.php:309
+msgid "Logo"
+msgstr ""
+
+#: inc/theme-options.php:312
+msgid "Ingresa la dirección URL de la imagen del Logo o deja en blanco para utilizar solo texto.<br>Ej:"
+msgstr ""
+
+#: inc/theme-options.php:312
+msgid "La imagen debe tener un tamaño de 384x72 pixéles."
+msgstr ""
+
+#: inc/theme-options.php:316
+#: inc/theme-options.php:318
+msgid "Favicon"
+msgstr ""
+
+#: inc/theme-options.php:321
+msgid "Ingresa la dirección URL de la imagen del favicon o deja en blanco para no utilizarlo.<br>Ej:"
+msgstr ""
+
+#: inc/theme-options.php:321
+msgid "La imagen debe tener un tamaño de 32x32 pixéles."
+msgstr ""
+
+#: inc/theme-options.php:325
+#: inc/theme-options.php:327
+msgid "Habilitar Breadcrumbs"
+msgstr ""
+
+#: inc/theme-options.php:330
+msgid "Habilita los Breadcrumbs \"Migas de Pan\" que aparecen al principio de las páginas, artículos, categorías, etiquetas y resultados de búsqueda del blog."
+msgstr ""
+
+#: inc/theme-options.php:334
+#: inc/theme-options.php:336
+msgid "No. de Artículos Relacionados"
+msgstr ""
+
+#: inc/theme-options.php:339
+msgid "Ingresa aquí el número de artículos relacionados que quieres que aparezcan en tus artículos. Si dejas este campo vacío, por defecto aparecerán 5 artículos relacionados."
+msgstr ""
+
+#: inc/theme-options.php:343
+#: inc/theme-options.php:345
+msgid "Texto de Copyright"
+msgstr ""
+
+#: inc/theme-options.php:348
+msgid "Ingresa el texto de \"Copyright\" que quieres que aparezca en el pié de página del tema. Puedes usar HTML."
+msgstr ""
+
+#: inc/theme-options.php:352
+#: inc/theme-options.php:354
+msgid "ID de Google Analytics"
+msgstr ""
+
+#: inc/theme-options.php:357
+msgid "Ingresa aquí el \"ID de propiedad web\" de tu blog para utilizar las estadíticas de Google Analytics, o deja en blanco para no utilizarlo. Debe ser algo como <code>UA-XXXXXXX-X</code>.<br>Más información en: <a href=\"http://support.google.com/googleanalytics/bin/answer.py?answer=113500\" title=\"ID de propiedad web\" target=\"_blank\">ID de propiedad web</a>."
+msgstr ""
+
+#: inc/theme-options.php:361
+#: inc/theme-options.php:363
+msgid "Scripts en el Pié de Página"
+msgstr ""
+
+#: inc/theme-options.php:366
+msgid "Ingresa aquí el código de los scripts de javascript que deees poner justo antes de la etiqueta <code>&lt;/body&gt;</code> del tema."
+msgstr ""
+
+#: inc/theme-options.php:371
+#: inc/theme-options.php:466
+#: inc/theme-options.php:515
+#: inc/theme-options.php:593
+msgid "Guardar Opciones"
+msgstr ""
+
+#: inc/theme-options.php:393
+#: inc/theme-options.php:395
+msgid "URL de Feedburner"
+msgstr ""
+
+#: inc/theme-options.php:398
+msgid "Si tienes una cuenta de <a href=\"http://www.feedburner.com/\" target=\"_blank\">Feedburner</a> para gestionar las estad&iacute;sticas de tu Feed, ingresa aquí la URL completa.<br>Ejemplo: <code>http://feedproxy.google.com/TuBlog</code> ó <code>http://feeds.feedburner.com/TuBlog</code>.<br>Por defecto se utiliza la dirección de RSS del blog."
+msgstr ""
+
+#: inc/theme-options.php:402
+#: inc/theme-options.php:404
+msgid "Redireccionar RSS"
+msgstr ""
+
+#: inc/theme-options.php:407
+msgid "Marca esta casilla si deseas redireccionar todos los feeds de tu blog a la dirección que pusiste en el campo anterior: \"URL de Feedburner\"."
+msgstr ""
+
+#: inc/theme-options.php:411
+#: inc/theme-options.php:413
+msgid "Texto de Pié de RSS"
+msgstr ""
+
+#: inc/theme-options.php:416
+msgid "Ingresa aquí el texto que quieres que aparezca al fondo de cada uno de tus artículos en el Feed RSS del blog.<br>Puedes utilizar las siguiente etiquetas:<br><code><b>[[posturl]]</b></code>: URL del artículo. - <code><b>[[permalink]]</b></code>: Enlace del artículo.<br><code><b>[[posttitle]]</b></code>: Título del artículo. - <code><b>[[bloglink]]</b></code>: Enlace del blog.<br><code><b>[[blogurl]]</b></code>: URL del blog - <code><b>[[actualyear]]</b></code>: Año actual.<br><code><b>[[blogname]]</b></code>: Nombre del Blog. - <code><b>[[blogdescription]]</b></code>: Descripción del blog."
+msgstr ""
+
+#: inc/theme-options.php:420
+#: inc/theme-options.php:422
+msgid "Suscripción por Email"
+msgstr ""
+
+#: inc/theme-options.php:425
+msgid "Ingresa la dirección de suscripción por email de tu blog.<br>Ej: <code>http://feedburner.google.com/fb/a/mailverify?uri=TuBlog&loc=es_ES</code>.<br>Más información en: <a href=\"http://support.google.com/feedburner/bin/answer.py?answer=78982\" title=\"FeedBurner Email Overview and FAQ\" target=\"_blank\">FeedBurner Email Overview and FAQ</a>."
+msgstr ""
+
+#: inc/theme-options.php:429
+#: inc/theme-options.php:431
+msgid "Página en Facebook"
+msgstr ""
+
+#: inc/theme-options.php:434
+msgid "Ingresa el \"username\" de la página en facebook de tu blog.<br>Ej: <code>TrazosWeb</code>.<br>Más información en: <a href=\"http://www.facebook.com/help/pages/usernames\" title=\"Nombres de usuario para las páginas de Facebook\" target=\"_blank\">Nombres de usuario para las páginas de Facebook</a> y <a href=\"http://www.facebook.com/username/\" title=\"Nombre de Usuario\" target=\"_blank\">Nombre de Usuario</a>."
+msgstr ""
+
+#: inc/theme-options.php:438
+#: inc/theme-options.php:440
+msgid "Imagen por defecto de Open Graph"
+msgstr ""
+
+#: inc/theme-options.php:443
+msgid "Ingresa la dirección URL de la imagen por defecto de Open Graph de Facebook o deja en blanco para utilizar por defecto la imagen del tema.<br>Ej:"
+msgstr ""
+
+#: inc/theme-options.php:443
+msgid "La imagen puede tener cualquier tamaño.<br> Más información de Open Graph: <a href=\"https://developers.facebook.com/docs/opengraph/\" title=\"Open Graph Protocol\" target=\"_blank\">Open Graph Protocol</a>"
+msgstr ""
+
+#: inc/theme-options.php:447
+#: inc/theme-options.php:449
+msgid "Perfil en Twitter"
+msgstr ""
+
+#: inc/theme-options.php:452
+msgid "Ingresa el \"username\" del perfil en Twitter de tu blog.<br>Ej: <code>TrazosWeb</code>.<br>Más información en: <a href=\"http://support.twitter.com/articles/14609-how-to-change-your-username\" title=\"Cómo cambiar tu nombre de usuario\" target=\"_blank\">Cómo cambiar tu nombre de usuario</a>."
+msgstr ""
+
+#: inc/theme-options.php:456
+#: inc/theme-options.php:458
+msgid "Página en Google+"
+msgstr ""
+
+#: inc/theme-options.php:461
+msgid "Ingresa la dirección URL de la página de tu blog en Google+.<br>Debe ser algo como por Ej.: <code>https://plus.google.com/b/105728563056280204005/</code>.<br>Más información en: <a href=\"http://support.google.com/plus/bin/answer.py?answer=1710600&topic=1710599&ctx=topic\" title=\"Cómo cambiar tu nombre de usuario\" target=\"_blank\">Acerca de Páginas de Google+</a>."
+msgstr ""
+
+#: inc/theme-options.php:487
+#: inc/theme-options.php:489
+msgid "Meta Description de la Página de Inicio"
+msgstr ""
+
+#: inc/theme-options.php:492
+msgid "Ingresa una pequeña descripción de tu blog para los buscadores. Ésta no debe exceder los 160 caracteres."
+msgstr ""
+
+#: inc/theme-options.php:496
+#: inc/theme-options.php:498
+msgid "Meta Keywords de la Página de Inicio"
+msgstr ""
+
+#: inc/theme-options.php:501
+msgid "Ingresa las palabras clave más importantes de tu sitio. Separa estas palabras con comas.<br>Ejemplo: <code>palabra clave 1, palabra clave 2, palabra clave 3</code>."
+msgstr ""
+
+#: inc/theme-options.php:505
+#: inc/theme-options.php:507
+msgid "SEO en Artículos y Páginas"
+msgstr ""
+
+#: inc/theme-options.php:510
+msgid "Si marcas esta casilla, aparecerá un área para escribir los meta keywords y meta description para cada página o artículo que estés escribiendo."
+msgstr ""
+
+#: inc/theme-options.php:536
+#: inc/theme-options.php:538
+msgid "¿Quieres mostrar los anuncios?"
+msgstr ""
+
+#: inc/theme-options.php:541
+msgid "Marca esta casilla si quieres que se muestren los anuncios en la barra lateral."
+msgstr ""
+
+#: inc/theme-options.php:545
+#: inc/theme-options.php:547
+msgid "¿Cuantos anuncios quieres mostrar?"
+msgstr ""
+
+#: inc/theme-options.php:556
+msgid "Indica el número de anuncios que deseas mostrar (1-8)."
+msgstr ""
+
+#: inc/theme-options.php:560
+#: inc/theme-options.php:562
+msgid "¿Quieres que los anuncios roten?"
+msgstr ""
+
+#: inc/theme-options.php:565
+msgid "Marca esta casilla para que el orden de los anuncios sea aleatorio."
+msgstr ""
+
+#: inc/theme-options.php:572
+#: inc/theme-options.php:574
+#, php-format
+msgid "Datos del Anuncio #%s"
+msgstr ""
+
+#: inc/theme-options.php:575
+msgid "Imagen del Anuncio:"
+msgstr ""
+
+#: inc/theme-options.php:577
+msgid "Ingresa la URL de la imagen de este anuncio. Ej:"
+msgstr ""
+
+#: inc/theme-options.php:579
+msgid "Etiqueta ALT de la Imagen:"
+msgstr ""
+
+#: inc/theme-options.php:581
+msgid "Ingresa una pequeñísima descripción del anuncio o de la imagen."
+msgstr ""
+
+#: inc/theme-options.php:583
+msgid "URL del Anuncio:"
+msgstr ""
+
+#: inc/theme-options.php:585
+msgid "Ingresa la URL a donde quieres que este anuncio se dirija. Ej:"
+msgstr ""
+

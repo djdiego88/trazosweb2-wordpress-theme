@@ -1,0 +1,123 @@
+/* THEME OPTIONS PAGE */
+
+.tw2-save {
+	width: 300px;
+}
+
+.alert {
+	width: 700px;
+	border: 1px solid #c6454b;
+	background-color: #e9d3d4;
+	margin: 0 0 10px 0;
+	line-height: 130%;
+}
+
+.alert p {
+	font-size: 11px;
+	padding: 0 10px;
+}
+
+.featured-post-list {
+	border: 1px solid #ccc;
+	padding: 1px;
+}
+
+.featured-post-list td {
+	border: none;
+}
+
+.contact-form-builder {
+	background-color: #F9F9F9;
+	border: 1px solid #DFDFDF;
+	border-right: none;
+	margin: 5px 5px 5px 0;
+
+}
+
+.contact-form-builder td {
+	padding: 5px;
+	font-size: 11px;
+	border-right: 1px solid #DFDFDF;
+}
+
+.contact-form-builder td.pre-set {
+	padding: 5px 10px;
+	font-size: 11px;
+}
+	
+.contact-form-builder thead th {
+	background-color: #eaeaea;
+	padding:5px 8px 8px;
+	padding: 10px;
+	text-align: left;
+	border-bottom: 1px solid #DFDFDF;
+	border-right: 1px solid #DFDFDF;
+
+}
+
+/* META BOXES */
+
+.tw2-textarea {
+	margin:0;
+	height: 6em;
+	width:98%;
+}
+
+.tw2-input {
+	margin:0;
+	width:98%;
+}
+
+.portfolio-meta, 
+.home-display-meta {
+	border-top: 1px dashed #ccc;
+	margin:5px;
+}
+
+.checkboxes {
+	padding: 0 10px;
+}
+
+
+/* #blog-options-meta,
+#news-options-meta,
+#portfolio-options-meta, */
+#portfolio-image-meta,
+#home-display-meta {
+	display:none;
+}
+
+.alert-meta {
+	border: 1px solid #c6454b;
+	background-color: #e9d3d4;
+	margin: 5px;
+	padding: 5px;
+	line-height: 130%;
+}
+
+.help-box {
+	border: 1px solid #ccc;
+	padding: 10px;
+	display: none;
+}
+
+.help-box ul {
+	padding: 5px 30px;
+}
+
+.help-box li {
+	list-style: square;
+}
+
+a.tw2-open, a.tw2-close {
+	font-size: 11px;
+	font-style: normal;
+}
+
+/* WIDGETS */
+
+.ad-box {
+	border: 1px solid #dddddd;
+	padding: 10px;
+	margin-bottom: 5px;
+}

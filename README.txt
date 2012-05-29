@@ -1,0 +1,1 @@
+A new repository with the files of the WordPress Theme Trazos Web 2.

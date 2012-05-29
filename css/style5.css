@@ -1,0 +1,92 @@
+/* Estilos específicos para style5: Morado */
+/* =============================================================================
+   Base
+   ========================================================================== */
+body {background:url(style5/bg.png) repeat scroll 0 0 #614572}
+::-moz-selection { background: #ad46fd;}
+::selection {background: #ad46fd;}
+
+/*Enlaces*/
+a:link, a:visited{color:#7d5099;}
+a:hover{color:#000;}
+a:active{color:#7d5099;}
+.post a:link, .post a:visited{color:#7d5099;}
+.post a:hover{color:#000;}
+.post a:active{color:#7d5099;}
+
+/*Menu*/
+#menu{background:url(style5/menu-bar.png) no-repeat 0 0;}
+#navigation li a{color:#fff;}
+#navigation li a:hover, #navigation li.current_page_item a{color:#bba2ce;}
+#search{background:url(style5/search-input.png) no-repeat 0 0;}
+#categories_bar{background-color:#56396c;}
+#categories_bar li a:hover, #navigation li.current-cat a{color:#bba2ce;}
+
+/*Artículos*/
+.post .the_post_meta li a{color:#7d5099}
+.post .the_post_meta li a:hover{color:#333}
+.post a.more-link, .post a.more-link:hover {background:url(style5/more-link.png) no-repeat 0 0; height:38px;width:159px}
+.post a.more-link{z-index:10; position:absolute; bottom:0;#bottom:10px; right:0; display:inline; background-position:0 0; text-indent:-9999px}
+.post a.more-link:hover{background-position:0 -38px;}
+.page blockquote, .post blockquote{background:url(style5/blockquote.png) no-repeat 0 5px}
+
+/*Pie del Artículo*/
+#post_footer .rss a, #post_footer .rss a:hover, #post_footer .share {background:url(style5/share-rss.png) no-repeat 0 0}
+#post_footer .rss a{background-position:0 -35px;}
+#post_footer .rss a:hover{background-position:0 0;}
+#post_footer .share{background-position:0 -70px;}
+
+/*Artículos relacionados*/
+#related_articles a:hover{color:#7d5099;}
+
+/*Comentarios*/
+ol.commentlist li.bypostauthor{background-color:#dcd2e4 !important}
+.reply a:link, .reply a:visited, .reply a:hover, .reply a:active, .cancel-comment-reply a:link, .cancel-comment-reply a:visited, .cancel-comment-reply a:hover, .cancel-comment-reply a:active, input#enviarc, input#enviarc:hover{background:url(style5/comments-buttons.png) no-repeat 0 0}
+.reply a:link, .reply a:visited{background-position:0 0;}
+.reply a:hover{background-position:0 -29px;}
+.reply a:active{background-position:0 0;}
+.cancel-comment-reply a:link, .cancel-comment-reply a:visited{background-position:-97px 0;}
+.cancel-comment-reply a:hover{background-position:-97px -29px;}
+.cancel-comment-reply a:active{background-position:-97px 0;}
+input#enviarc{background-position:-194px 0;}
+input#enviarc:hover{background-position:-194px -29px;}
+
+/*Sidebar*/
+li.commentst, li.posts, li.category, li.famous, li.random, li.commentst.mouseover, li.commentst.selected, li.commentst.mouseout, li.posts.mouseover, li.posts.selected, li.posts.mouseout, li.category.mouseover, li.category.selected, li.category.mouseout, li.famous.mouseover, li.famous.selected, li.famous.mouseout, li.random.mouseover, li.random.selected, li.random.mouseout, .boxTop, .boxBottom{background:url(style5/tabs-buttons.png) no-repeat 0 0}
+li.famous{background-position:0 -40px}
+li.commentst{background-position:-45px -40px}
+li.category{background-position:-90px -40px}
+li.random{background-position:-135px -40px}
+li.posts{background-position:-180px -40px}
+li.famous.mouseover{background-position:0 0}
+li.famous.selected{background-position:0 0 !important}
+li.famous.mouseout{background-position:0 -40px}
+li.commentst.mouseover{background-position:-45px 0}
+li.commentst.selected{background-position:-45px 0 !important}
+li.commentst.mouseout{background-position:-45px -40px}
+li.category.mouseover{background-position:-90px 0}
+li.category.selected{background-position:-90px 0 !important}
+li.category.mouseout{background-position:-90px -40px}
+li.random.mouseover{background-position:-135px 0}
+li.random.selected{background-position:-135px 0 !important}
+li.random.mouseout{background-position:-135px -40px}
+li.posts.mouseover{background-position:-180px 0}
+li.posts.selected{background-position:-180px 0 !important}
+li.posts.mouseout{background-position:-180px -40px}
+.boxTop, .boxBottom{background:url(style5/box-top-bottom.png) no-repeat 0 0}
+.boxTop{background-position:0 0;}
+.boxBottom{background-position:0 -4px;}
+.boxBody{border-left:1px solid #462d56; border-right:1px solid #462d56;}
+
+/*Pagenavi personalizado*/
+div.pagenavi a:hover{background-color:#614572;}
+div.pagenavi span.pages{color:#543172;}
+div.pagenavi span.current{background-color:#462d56;}
+
+/*Footer*/
+#footer{background:url(style5/footer-bg.png) repeat-x 0 0; h}
+#footer h3{background:url(style5/sep-footer.png) repeat-x 0 100%;}
+#footer ul li a:hover{color:#bba2ce}
+.fb ul li, .cats ul li, .bot ul li{background:url(style5/sep-footer.png) repeat-x 0 100%}
+#footer-bt{background:url(style5/footer-bt.png) no-repeat 0 0;}
+#copyright a{color:#bba2ce;}

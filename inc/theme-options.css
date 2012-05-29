@@ -1,0 +1,40 @@
+#wpcontent select option {
+	padding-right: 5px;
+}
+.image-radio-option td {
+	padding-top: 15px;
+}
+.image-radio-option label {
+	display: block;
+	float: left;
+	margin: 0 30px 20px 2px;
+	position: relative;
+}
+.image-radio-option input {
+	margin: 0 0 10px;
+}
+.image-radio-option span.image {
+	display: block;
+	width: 100px;
+}
+.image-radio-option img {
+	margin: 0 0 0 -2px;
+}
+body.rtl .image-radio-option label {
+	float: right;
+	margin: 0 2px 20px 30px;
+}
+input[type=text] {
+	width: 90% !important;
+}
+textarea {
+	height:80px;
+	width:90% !important;
+}
+textarea.longdata {
+	height:140px;
+}
+.shortdata {
+	width:180px !important;
+}
+
