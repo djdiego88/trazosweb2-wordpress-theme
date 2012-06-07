@@ -50,7 +50,7 @@
 <ul>
 	<?php 
 $request = "SELECT comment_count,ID,post_title FROM $wpdb->posts";
-$request .= " WHERE post_date > '" . date('Y-m-d', strtotime('-430 days')) . "'";
+$request .= " WHERE post_date > '" . date('Y-m-d', strtotime('-430 days')) . "' AND post_status = 'publish'";
 $request .= " ORDER BY comment_count DESC LIMIT 0 , 10";
 $result = $wpdb->get_results($request);
     foreach ($result as $post) {
