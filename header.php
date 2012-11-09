@@ -76,12 +76,12 @@ if ( $paged >= 2 || $page >= 2 )
 <div id="botones">
 <ul class="socials">
 <?php if($social['tw2_facebook_page'] != '') { ?>
-<li class="bface"><a href="<?php echo fb_link_profile($social['tw2_facebook_page']); ?>" target="_blank" title="<?php printf(__('Házte fan de %1$s en Facebook: %2$d Fans', 'tw2'), get_bloginfo('name'), fb_like_count($social['tw2_facebook_page'])); ?>" rel="nofollow">Facebook</a></li>
+<li class="bface"><a href="<?php echo fb_link_profile($social['tw2_facebook_page']); ?>" target="_blank" title="<?php printf(__('Házte fan de %s en Facebook', 'tw2'), get_bloginfo('name')); ?>" rel="nofollow">Facebook</a></li>
 <?php } ?>
 <?php if($social['tw2_twitter_account'] != '') { ?>
-<li class="btwitter"><a href="http://twitter.com/<?php echo $social['tw2_twitter_account']; ?>" target="_blank" title="<?php printf(__('Sigue a %1$s en Twitter: %2$d Seguidores', 'tw2'), get_bloginfo('name'), getFollowers($social['tw2_twitter_account'])); ?>" rel="nofollow">Twitter</a></li>
+<li class="btwitter"><a href="http://twitter.com/<?php echo $social['tw2_twitter_account']; ?>" target="_blank" title="<?php printf(__('Sigue a %s en Twitter', 'tw2'), get_bloginfo('name')); ?>" rel="nofollow">Twitter</a></li>
 <?php } ?>
-<li class="brss"><a href="<?php feedburner(); ?>" title="<?php printf(__('Suscríbete a %1$s mediante RSS: %2$d Suscriptores', 'tw2'), get_bloginfo('name'), getFeedburner($social['tw2_feedburner'])); ?>" rel="nofollow">Rss</a></li>
+<li class="brss"><a href="<?php feedburner(); ?>" title="<?php printf(__('Suscríbete a %s mediante RSS', 'tw2'), get_bloginfo('name')); ?>" rel="nofollow">Rss</a></li>
 <?php if($social['tw2_email_subscription'] != '') { ?>
 <li class="bemail"><a href="<?php echo $social['tw2_email_subscription']; ?>" target="_blank" title="<?php printf(__('Recibe los últimos artículos de %s en tu E-mail', 'tw2'), get_bloginfo('name')); ?>" rel="nofollow">Email</a></li>
 <?php } ?>
