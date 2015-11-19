@@ -50,7 +50,7 @@
 <div id="copyright">
 <?php 
 $general = tw2_get_theme_general(); ?>
-<p class="left"><?php if($general['tw2_footer_copyright'] != '') { ?><?php echo $general['tw2_footer_copyright']; ?><?php } ?> | <a href="http://wordpress.org/" target="_blank" rel="nofollow"><?php printf(__('Creado con %s','tw2'),'WordPress');?></a></p> <p class="right"><?php _e('Diseñado por', 'tw2'); ?> &nbsp;&nbsp;<a class="logof" href="http://www.trazos-web.com" title="<?php printf(__('%s - Blogging, Desarrollo y Diseño Web','tw2'),'Trazos Web');?>"><img src="<?php bloginfo('template_directory'); ?>/img/footer_logo.png" alt="<?php printf(__('%s - Blogging, Desarrollo y Diseño Web','tw2'),'Trazos Web');?>" width="111px" height="16px"></a></p>
+<p class="left"><?php if($general['tw2_footer_copyright'] != '') { ?><?php echo $general['tw2_footer_copyright']; ?><?php } ?> | <a href="http://wordpress.org/" target="_blank" rel="nofollow"><?php printf(__('Creado con %s','tw2'),'WordPress');?></a></p> <p class="right"><?php _e('Diseñado por', 'tw2'); ?> &nbsp;&nbsp;<a class="logof" href="http://www.trazos-web.com" title="<?php printf(__('%s - Blogging, Desarrollo y Diseño Web','tw2'),'Trazos Web');?>" rel="nofollow"><img src="<?php bloginfo('template_directory'); ?>/img/footer_logo.png" alt="<?php printf(__('%s - Blogging, Desarrollo y Diseño Web','tw2'),'Trazos Web');?>" width="111px" height="16px"></a></p>
 </div><!--/copyright-->
 </div><!--/wrapper-->
 <!-- Beautiful design by Diego Castillo - http://www.trazos-web.com -->
